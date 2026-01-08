@@ -57,14 +57,13 @@ Express 架構輕量且彈性高，適合 API 伺服器開發。
 請確認本機 MongoDB 已啟動，並監聽於：mongodb://127.0.0.1:27017
 
 ### 後端安裝與啟動
-- cd 114_web_final_project/backend
+- cd backend
 - npm install
 - npm run dev
-- 正確顯示 : MongoDB connected 
-Server running on http://localhost:5000
+- 正確顯示 : MongoDB connected   Server running on http://localhost:5000
 
 ### 前端安裝與啟動
-- cd 114_web_final_project/frontend
+- cd frontend
 - npm install react-router-dom
 - npm install
 - npm start
