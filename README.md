@@ -70,3 +70,4 @@ npm install react-router-dom
 npm install
 npm start
 完成後於 http://localhost:3000 開啟
+管理者密碼:0000
